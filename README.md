@@ -1,4 +1,7 @@
-### Hi there 👋
+##Базилов Дмитрий
+#Университет ИТМО
+ - Курс: 2
+ - Направление: Системное прикладное программное обеспечение 
 
 <!--
 **DmitriBazilov/DmitriBazilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
